@@ -25,6 +25,7 @@ A Gradio-based UI lets users input a movie title and receive a list of recommend
 ---
 
 ## Project Structure
+```
 movie_recommender/
 │
 ├── data/ # Contains datasets and supporting files
@@ -32,7 +33,7 @@ movie_recommender/
 ├── handling_features.ipynb # Data cleaning and feature engineering
 ├── vector.ipynb # Vectorization and similarity computation
 └── gradio.ipynb # Gradio-based recommendation demo
-
+```
 ---
 
 ## Workflow
